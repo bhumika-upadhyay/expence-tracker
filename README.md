@@ -1,4 +1,4 @@
-# expence-tracker
+ni# expence-tracker
 expence-tracker track your expences--
 A simple and responsive Expense Tracker Web App built using HTML, CSS, and JavaScript.
 It helps users to track their daily income and expenses, maintain balance, and manage finances visually — all in one place.
@@ -28,7 +28,7 @@ JavaScript (ES6)	App logic, data handling, and interactivity
 LocalStorage	To save user data locally
 
 🧑‍💻 Author
-Bhumika Upadhyay (💻 @king_fisher_coder)
+Bhumika Upadhyay |
 Frontend Developer | React & Web Enthusiast
 📩 Connect on LinkedIn
 📷 Instagram
